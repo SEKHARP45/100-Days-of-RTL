@@ -2,6 +2,7 @@
 I am Sekhar Panda, a passionate VLSI enthusiast. I used Modelsim and Intel Quartus Prime for simulation and synthesis purposes. I am a trained fresher in the Design Verification domain.
 
 List of Day wise RTL codes:
+
 Day 1 : Clock Generator
 
 Day 2 : D-Flipflop

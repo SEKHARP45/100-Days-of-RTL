@@ -3,85 +3,105 @@ I am Sekhar Panda, a passionate VLSI enthusiast. I used Modelsim and Intel Quart
 
 List of Day wise RTL codes:
 
-Day 1 : Clock Generator
+Day 1 : Clock Divider
 
-Day 2 : D-Flipflop
+Day 2 : Johnson Counter
 
-Day 3 : JK-Flipflop
+Day 3: Ring Counter
 
-Day 4 : 4-Bit Controlled Buffer
+Day 4: 5 Input Majority Circuit
 
-Day 5 : Bidirectional Shift Register
+Day 5: Parity Generator
 
-Day 6 : Minority Detector
+Day 6: Binary to One Hot Encoder
 
-Day 7 : T-Flipflop
+Day 7: 4-bit BCD Synchronous Counter
 
-Day 8 : Decoder Using Demultiplexer
+Day 8: 4-bit Carry LookAhead Adder
 
-Day 9 : Binary to BCD Converter
+Day 9: N-bit Comparator
 
-Day 10 : Binary to Gray Converter
+Day 10: Serial in Serial Out Shift Register
 
-Day 11 : Full Adder using Half Subtractors
+Day 11: Serial in Parallel Out Shift Register
 
-Day 12 : Seven Segment Display
+Day 12: Parallel in Parallel Out Register
 
-Day 13 : Decimal to Binary Encoder
+Day 13: Parallel In Serial Out Register
 
-Day 14 : Serial Input Serial Output using D-Flipflop
+Day 14: Bidirection Shift Register
 
-Day 15 : Digital Clock using BCD Counter
+Day 15: PRBS Sequence Generator
 
-Day 16 : Synchronous Counter
+Day 16: 8-Bit Subtractor
 
-Day 17 : PISO Shift Register
+Day 17: 8-Bit Adder/Subtractor
 
-Day 18 : 4-Bit Parallel Adder
+Day 18: 4-bit Multiplier
 
-Day 19 : SIPO Shift Register
+Day 19: Fixed Point Division
 
-Day 20 : Johnson Counter
+Day 20: Master Slave JK Flip Flop
 
-Day 21 : Shift Operations
+Day 21: Positive Edge Detector
 
-Day 22 : Modulo-N- Bit-Counter
+Day 22: BCD adder
 
-Day 23 : N-Bit-Parity-Generator
+Day 23: 4-bit Carry Select Adder
 
-Day 24 : Parameterised Reflected Binary Counter
+Day 24: Moore FSM 1010 Sequence detector
 
-Day 25 : Multiplexer using Tristate Buffer
+Day 25: N:1 Mux
 
-Day 26 : Single Port RAM
+Day 26: BCD TimeCount
 
-Day 27 : N-BIT BCD Adder
+Day 27: 3-1 Mux
 
-Day 28 : Frequency Divider by Odd Number
+Day 28: BCD to Seven Segment Display
 
-Day 29 : Dual Port RAM
+Day 29: D Latch using 2:1 MUX
 
-Day 30 : Greatest Common Divisor
+Day 30: 8-Bit Barrel Shifter
 
-Day 31 : Greatest Common Divisor via Data Path and Controller
+Day 31: 1-bit Comparator using 4X1 Mux
 
-Day 32 : Factorial
+Day 32: Logical, Algebraic, and Rotate Shift Operations
 
-Day 33 : Sequence Detector(101)- Moore Model
+Day 33: ALU
 
-Day 34 : Clock Buffer
+Day 34: 4-Bit Asynchronous Down Counter
 
-Day 35 : Synchronous FIFO
+Day 35: Mod-N UpDown Counter
 
-Day 36 : Priority Encoder
+Day 36: Universal Binary Counter
 
-Day 37 : Universal Shift Register
+Day 37: Universal Shift Register
 
-Day 38 : Serial Adder
+Day 38: CN( Change-No change Flipflop) using 2:1 Mux
 
-Day 39 : N Bit Comparator
+Day 39: Frequency divider by odd Numbers
 
-Day 40 : Carry Skip Adder
+Day 40: Greatest Common Divisor using Behavioural Modelling
+
+Day 41: Greatest Common Divisor via FSM
+
+Day 42: Single Port RAM
+
+Day 43: Dual Port RAM
+
+Day 44: Clock Buffer
+
+Day 45: Synchronous FIFO
+
+Day 46: Priority Encoder
+
+Day 47: Seven Segment Display Using ROM
+
+Day 48: Serial Adder
+
+Day 49: Fixed Priority Arbiter
+
+Day 50: Round Robin Arbiter
 
                                                        //SystemVerilog
 

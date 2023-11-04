@@ -3,37 +3,37 @@ I am Sekhar Panda, a passionate VLSI enthusiast. I used Modelsim and Intel Quart
 
 List of Day wise RTL codes:
 
-Day 1:    BCD adder 
+Day 1:     BCD adder 
 
-Day 2:    4-bit Carry LookAhead Adder     
+Day 2:     4-bit Carry LookAhead Adder     
 
-Day 3:    4-bit Carry Select Adder     
+Day 3:     4-bit Carry Select Adder     
 
-Day 4:    8-Bit Subtractor   
+Day 4:     8-Bit Subtractor   
 
-Day 5:    8-Bit Adder/Subtractor   
+Day 5:     8-Bit Adder/Subtractor   
  
-Day 6:    Serial Adder    
+Day 6:     Serial Adder    
 
-Day 7:    4-bit Multiplier     
+Day 7:     4-bit Multiplier     
 
-Day 8:    Fixed Point Division     
+Day 8:     Fixed Point Division     
 
-Day 9:    BCD to Seven Segment Display  
+Day 9:     BCD to Seven Segment Display  
 
-Day 10:   Binary to One Hot Encoder
+Day 10:    Binary to One Hot Encoder
  
-Day 11:   5 Input Majority Circuit    
+Day 11:    5 Input Majority Circuit    
 
-Day 12:   Parity Generator    
+Day 12:    Parity Generator    
 
-Day 13:   Priority Encoder 
+Day 13:    Priority Encoder 
 
-Day 14:   BCD TimeCount    
+Day 14:    BCD TimeCount    
 
-Day 15:   Greatest Common Divisor using Behavioural Modelling    
+Day 15:    Greatest Common Divisor using Behavioural Modelling    
 
-Day 16:   3-1 Mux  
+Day 16:    3-1 Mux  
 
 Day 17:   N:1 Mux     
  

@@ -3,7 +3,7 @@ I am Sekhar Panda, a passionate VLSI enthusiast. I used Modelsim and Intel Quart
 
 List of Day wise RTL codes:
 
-Day 1:     BCD adder 
+Day 1  :     BCD adder 
 
 Day 2:     4-bit Carry LookAhead Adder     
 

@@ -5,9 +5,9 @@ List of Day wise RTL codes:
 
 Day 1 :     BCD adder 
 
-Day 2 :     4-bit Carry LookAhead Adder     
+Day 2 :     4-bit Carry Select Adder 
 
-Day 3 :     4-bit Carry Select Adder     
+Day 3 :     4-bit Carry LookAhead Adder     
 
 Day 4 :     8-Bit Subtractor   
 

@@ -17,19 +17,19 @@ Day 6 :     Serial Adder
 
 Day 7 :     4-bit Multiplier     
 
-Day 8:     Fixed Point Division     
+Day 8 :     Fixed Point Division     
 
-Day 9:     BCD to Seven Segment Display  
+Day 9 :     BCD to Seven Segment Display  
 
-Day 10:    Binary to One Hot Encoder
+Day 10 :    Binary to One Hot Encoder
  
-Day 11:    5 Input Majority Circuit    
+Day 11 :    5 Input Majority Circuit    
 
-Day 12:    Parity Generator    
+Day 12 :    Parity Generator    
 
-Day 13:    Priority Encoder 
+Day 13 :    Priority Encoder 
 
-Day 14:    BCD TimeCount    
+Day 14 :    BCD TimeCount    
 
 Day 15:    Greatest Common Divisor using Behavioural Modelling    
 

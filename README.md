@@ -1,7 +1,7 @@
 # 100-Days-of-RTL
 I am Sekhar Panda, a passionate VLSI enthusiast. I used Modelsim and Intel Quartus Prime for simulation and synthesis purposes. I am a trained fresher in the Design Verification domain.
 
-      Author- Sekhar Panda
+                                                          Author- Sekhar Panda
 
 List of Day wise RTL codes:
 
